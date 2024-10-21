@@ -1,4 +1,3 @@
-Sure! Here is the complete content for your `README.md` file in markdown format:
 # Food Delivery App
 
 Welcome to the Food Delivery App repository! This full-stack application allows users to register, log in, add products to their cart, place orders, and make payments using Stripe. The app also includes an admin panel for managing the menu and tracking orders.
